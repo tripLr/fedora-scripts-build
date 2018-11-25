@@ -1,5 +1,8 @@
 # fedora-scripts-build
-# i was successful inmy first commit from my server to this repo. sweet 11-24-18 so cool
+# Fedora server build environment for Android Oreo LineageOS
+
+I was successful in my first commit from my server to this repo. 
+sweet 11-24-18 so cool
 
 scripts to setup and build android LineageOS using fedora server 
 
